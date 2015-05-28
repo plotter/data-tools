@@ -11,3 +11,4 @@ tools for managing data sources
 * [odata.org](http://www.odata.org/)
 * [creating odata endpoints in webapi](http://www.asp.net/web-api/overview/odata-support-in-aspnet-web-api)
 * [odata v4 in aspnet vnext](http://blogs.msdn.com/b/odatateam/archive/2015/03/12/early-investigation-into-supporting-the-odata-libraries-in-asp-net-5-mvc-6.aspx)
+* [netflix falcor video](https://www.youtube.com/watch?v=z8UgDZ4rXBU&feature=youtu.be&t=2485)
